@@ -15,8 +15,11 @@
 include:
   - board: nice_nano_v2
     shield: reviung41
+<<<<<<< HEAD
   - board: nice_nano_v2
     shield: lily58_right
   - board: nice_nano_v2
     shield: lily58_left
     
+=======
+>>>>>>> f061d1bf05dd4d8032c6477d7a8067a9d3e204c3
